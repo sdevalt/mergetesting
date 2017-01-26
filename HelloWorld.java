@@ -4,4 +4,8 @@ public class HelloWorld
 	{
 		System.out.println("here's one from the command line!");
 	}
+
+	public static int makeAnInt()
+	{
+	}
 }
